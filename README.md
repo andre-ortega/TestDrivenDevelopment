@@ -6,5 +6,6 @@ a testable method that was capable of converting any integers into either little
 
 In a couple short hours I wrote 31 tests ensuring complete coverage and successfully passed them all, I then
 wrote a method that successfully demonstrated the logic needed to convert Epoch Time (Unix time -> the number
-of elapsed seconds since Jan 1, 1970) into a standard human-readable datetime that a group member failed to
-incorporate.
+of elapsed seconds since Jan 1, 1970) into a standard human-readable datetime format, which was another
+requirement of this assignment. That method, however, was not submitted and was replaced with a substandard
+solution.
